@@ -56,7 +56,7 @@ def delete_tasks(task_id):
     connection.commit()
     connection.close()
 
-df= pd.DataFrame()
+
 
 
 
