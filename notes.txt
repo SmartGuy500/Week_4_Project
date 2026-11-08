@@ -1,0 +1,18 @@
+Need to add the essential functions
+    -Adding tasks
+    -Viewing tasks
+    -Marking tasks as complete or not
+    -Deleting/Removing tasks (Either prematurely or after they've completed)
+    -exiting the command line
+
+creating the SQL database and table (IF they don't exist)
+    -Adding database operations(INSERT, DELETE, UPDATE and SELECT)
+
+Formatting the task list in a readable tabulated format
+
+Note: 
+    - Could also add task priority and implement it 
+        *High, Medium and Low priorities
+    - Add the option to filter categories
+        *Most likely by combining SELECT whith a specific WHERE condition
+    - Exporting the task list to be stored in a CSV file
